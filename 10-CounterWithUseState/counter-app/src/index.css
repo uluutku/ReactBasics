@@ -1,0 +1,28 @@
+.counter-container{
+  font-size: 2em;
+  text-align: center;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.counter-container .counter-display{
+  font-size: 5em;
+  margin-top: 0;
+  margin-bottom: 50px;
+}
+
+.counter-btn{
+
+  font-size: 1.5em;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
+  margin: 0px 5px;
+  width: 250px;
+  height: 150px;
+  background-color: aqua;
+  border-radius: 8px;
+  cursor: pointer;
+}
+
+.counter-btn:hover{
+  background-color: blueviolet;
+}
