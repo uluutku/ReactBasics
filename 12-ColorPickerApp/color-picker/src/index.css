@@ -45,3 +45,9 @@ input[type="color"]{
   border-radius: 10px;
   border: 1px solid grey;
 }
+
+.davsan{
+  font-size: 1.5rem;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
