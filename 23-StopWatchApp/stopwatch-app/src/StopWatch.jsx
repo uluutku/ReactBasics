@@ -52,6 +52,7 @@ function StopWatch(){
 
     return(
     <>
+    <h1 className="timer"> DavsanTimer </h1>
     <div className="stopwatch">
         <div className="display">{formatTime()}</div>
         <div className="controls">
